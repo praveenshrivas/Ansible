@@ -10,7 +10,7 @@ Provision two Redhat linux Instances.( Master & Salve)
 Installation steps:
 
 1. Update your EC2 Instance:
-   yum update
+  >> yum update
 
 2. Add a third party repository EPEL(Extra Package for Enterprize Linux)
 
