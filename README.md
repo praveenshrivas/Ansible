@@ -22,3 +22,14 @@ Installation steps:
 
 4. Check "Ansible" Version (Only in Master Node)
    >> ansible --version
+   
+
+**Setup Inventory File**
+1. Create a file named hosts-dev in the location /home/ec2-user
+   >> cd /home/ec2-user
+2. create a file named hosts-dev
+   >> vi hosts-dev
+   paste the content available in hosts-dev file
+3. list our servers
+   >> ansible --lists-hosts all
+4. 
