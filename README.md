@@ -20,5 +20,5 @@ Installation steps:
 
    >> yum install ansible -y 
 
-4. Check Ansible Version (Only in Master Node)
+4. Check "Ansible" Version (Only in Master Node)
    >> ansible --version
